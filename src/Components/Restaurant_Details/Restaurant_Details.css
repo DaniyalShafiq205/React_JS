@@ -1,0 +1,7 @@
+.bg{
+    background-image: url(./MeatBall1.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        min-height: 881px;
+        margin-top: -5px;
+}

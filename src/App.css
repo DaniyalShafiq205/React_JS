@@ -1,0 +1,80 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+  .App-logo {
+    animation: App-logo-spin infinite 2s linear;
+  }
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+nav >div>ul>li>a{
+  color:red;
+}
+nav >div>ul>li>a:hover{
+  color:rgb(240, 14, 14);
+}
+
+.heading{
+ 
+  color: aquamarine;
+}
+
+
+#Mainnavbar{
+  background-color: #ffebeb;
+}
+
+#navbarBrand{
+  margin-left: 10rem;
+}
+#togbtnclr{
+  color: rgb(240, 14, 14);
+}
+#card-style-text{
+
+  color: #ED1B24;
+}
+#card-style-text>#star-p-tag{
+  color: rgb(255, 170, 86);
+}
+footer{
+  background: #333333;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #dd1818, #333333);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.burger-img
+
+{
+  padding-top:3rem;
+  max-height: 80vh;
+}
